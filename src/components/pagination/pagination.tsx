@@ -25,7 +25,7 @@ export const Pagination: FunctionComponent<Pagination> = ({ prev, next }) => {
                 clipRule="evenodd"
               />
             </svg>
-            Previous
+            Буцах..
           </a>
         )}
       </div>
