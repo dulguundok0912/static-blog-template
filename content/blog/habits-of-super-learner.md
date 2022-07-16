@@ -1,24 +1,13 @@
 ---
 template: blog-post
-title: Habits of super learner
-publishedDate: 2020-08-14T12:00:28.345Z
-description: HARUM ipsum dolor sit amet, consectetur adipiscing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl vel pretium
-  lectus quam. Enim neque volutpat ac tincidunt vitae semper quis lectus. At
-  erat pellentesque adipiscing commodo elit at.
+title: Зарим голын усны түвшин өмнөх өдрийнхөөс 10-25 см нэмэгджээ
+publishedDate: 2022-07-15T12:00:28.345Z
+description: Монгол Улсын Шадар Сайдын  баталсан “Үер уснаас үрсээ хамгаалъя” аяны 2 дугаар үе шат, “Үер, усны ослоос урьдчилан сэргийлэх өдөрлөг” 2022 оны 07 дугаар сарын 2-ны өдөр Тэрэлжийн Мойлтын тохойд зохион байгуулагдлаа.
 featured: false
-img: ../../static/images/girl-on-phone.jpeg
-imgAlt: Scroll scroll scroll...
+img: ../../static/images/cover-flood.jpg
+imgAlt: Зураг
 tags:
-  - self-improvement
-  - habits
+  - Ус
+  - Санамж
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl vel pretium lectus quam. Enim neque volutpat ac tincidunt vitae semper quis lectus. At erat pellentesque adipiscing commodo elit at. Hendrerit dolor magna eget est lorem ipsum. Congue nisi vitae suscipit tellus mauris a. In cursus turpis massa tincidunt. Massa tempor nec feugiat nisl pretium fusce. Vitae auctor eu augue ut lectus arcu bibendum at. Nulla aliquet porttitor lacus luctus accumsan tortor. Blandit cursus risus at ultrices mi tempus imperdiet nulla. Feugiat in fermentum posuere urna nec. Neque egestas congue quisque egestas diam. Et egestas quis ipsum suspendisse.
-
-Tempus quam pellentesque nec nam aliquam sem et tortor consequat. Nunc consequat interdum varius sit amet mattis vulputate enim. Faucibus purus in massa tempor nec feugiat nisl pretium fusce. Lorem ipsum dolor sit amet consectetur. Ut venenatis tellus in metus vulputate eu scelerisque felis. Volutpat lacus laoreet non curabitur. Sociis natoque penatibus et magnis dis parturient montes nascetur. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Consequat interdum varius sit amet mattis vulputate. Ornare lectus sit amet est. Viverra ipsum nunc aliquet bibendum enim facilisis. Tincidunt lobortis feugiat vivamus at augue eget arcu dictum varius. Iaculis at erat pellentesque adipiscing. Nec tincidunt praesent semper feugiat nibh. Nibh venenatis cras sed felis eget velit aliquet sagittis. Tellus molestie nunc non blandit. Maecenas ultricies mi eget mauris pharetra et ultrices.
-
-Cursus mattis molestie a iaculis at erat pellentesque. Orci porta non pulvinar neque laoreet. Nec feugiat nisl pretium fusce id. Mi proin sed libero enim. Id volutpat lacus laoreet non curabitur gravida arcu. Pulvinar sapien et ligula ullamcorper. Ut venenatis tellus in metus vulputate. Enim blandit volutpat maecenas volutpat blandit. Placerat in egestas erat imperdiet sed euismod nisi porta. Penatibus et magnis dis parturient montes. Mi bibendum neque egestas congue quisque egestas diam. Et sollicitudin ac orci phasellus egestas. Nunc non blandit massa enim nec. Id donec ultrices tincidunt arcu. In dictum non consectetur a erat.
-
-Fringilla ut morbi tincidunt augue interdum velit. Lacus sed viverra tellus in hac habitasse platea. In mollis nunc sed id semper. Quis vel eros donec ac odio tempor orci dapibus. Integer feugiat scelerisque varius morbi enim. In est ante in nibh mauris cursus mattis molestie. Pellentesque id nibh tortor id aliquet lectus proin. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Dictum at tempor commodo ullamcorper a lacus. Suscipit adipiscing bibendum est ultricies integer quis auctor elit. Sit amet risus nullam eget felis eget nunc lobortis. Vitae proin sagittis nisl rhoncus mattis rhoncus urna.
-
-Felis eget velit aliquet sagittis id consectetur purus ut faucibus. Sollicitudin tempor id eu nisl nunc mi. Risus in hendrerit gravida rutrum quisque non tellus orci. Eget felis eget nunc lobortis mattis aliquam faucibus purus. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Velit sed ullamcorper morbi tincidunt ornare. Magna fermentum iaculis eu non diam. Aliquam nulla facilisi cras fermentum odio eu. Lacus sed viverra tellus in hac habitasse platea dictumst. Viverra nibh cras pulvinar mattis nunc sed blandit. Varius sit amet mattis vulputate enim nulla. Massa id neque aliquam vestibulum morbi. Maecenas sed enim ut sem viverra aliquet. Nisl pretium fusce id velit. Ac ut consequat semper viverra nam libero justo. Pellentesque nec nam aliquam sem et.
+Монгол Улсын Шадар Сайдын  баталсан “Үер уснаас үрсээ хамгаалъя” аяны 2 дугаар үе шат, “Үер, усны ослоос урьдчилан сэргийлэх өдөрлөг” 2022 оны 07 дугаар сарын 2-ны өдөр Тэрэлжийн Мойлтын тохойд зохион байгуулагдлаа. Амралт аялал зугаалгын улирлыг угтан, бага насны хүүхдүүдэд тавих эцэг, эхийн хараа хяналтыг сайжруулах, сонор сэрэмжийг дээшлүүлэх, мэргэжлийн байгууллагуудын хамтын ажиллагааг уялдуулах, олон нийтийн оролцоог нэмэгдүүлэхэд чиглэлээр дээрх арга хэмжээ зохион байгуулагдсан бөгөөд өдөрлөгийг Монгол улсын Шадар сайд С.Амарсайхан нээж хэлсэн үгэндээ “Өнгөрсөн 10 жилийн хугацаанд гамшиг, осолд нийт 675 хүүхэд өртсөнөөс 499 хүүхэд амь насаа алдсан. Үүнээс 241 хүүхэд усны ослоор амь насаа алдсан тоон мэдээлэл байна. Дээрх тоон мэдээллийг харахад гамшгийн эрсдэлийг бууруулахад эцэг эх, иргэд, олон нийтийн оролцоо чухал байгаа нь харагдаж байгаа юм. Иймд төрийн болон төрийн бус, олон улсын  байгууллагууд хамтран салбар хоорондын уялдааг ханган ажиллаж байгаа нь үер усны осолд өртөж байгаа хүүхдийн тоог бууруулахад чухал ач холбогдолтой юм. Монголын минь гэрэлт ирээдүй болсон хүүхдүүдийнхээ эрүүл, эсэн мэнд, аюулгүй орчинд амьдрах боломжийг бүрдүүлэхэд иргэн бүр хариуцлагатай байж эрсдэлээс үр хүүхдээ хамгаалахыг уриалж байна” хэмээн онцоллоо. Өдөрлөгт ЦУОШГ-ийн дарга С.Энхтүвшин болон холбогдох мэргэжилтнүүд оролцлоо.
