@@ -57,7 +57,7 @@ export const NotFound: FunctionComponent = () => {
           <div className="lg:pr-8">
             <div className="max-w-md mx-auto sm:max-w-lg lg:mx-0">
               <h2 className="text-3xl leading-9 font-extrabold tracking-tight sm:text-4xl sm:leading-10">
-                Contact Me
+                Бидэнтэй холбогдох
               </h2>
               <form
                 name={FORM_NAME}
@@ -171,7 +171,7 @@ export const NotFound: FunctionComponent = () => {
                       type="submit"
                       className="inline-flex justify-center py-2 px-4 border border-transparent text-sm leading-5 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo active:bg-indigo-700 transition duration-150 ease-in-out"
                     >
-                      Submit
+                      Илгээх
                     </button>
                   </span>
                 </div>
