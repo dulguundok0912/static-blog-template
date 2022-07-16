@@ -4,7 +4,7 @@ title: Өдрийн онцлох мэдээ!!!
 publishedDate: 2022-07-15T12:00:28.345Z
 description: Орон нутгийн замд хурдаа тохируулан оролцохыг цагдаагийн байгууллага анхааруулж байна
 featured: true
-img: ../../static/images/машаан.jpeg
+img: ../../static/images/машаан.png
 imgAlt: Тухайн ослын зураг
 tags:
   - Цагдаагын
