@@ -4,7 +4,7 @@ title: Бишээ эрдэнэсүх ийнхүү хэлэв!!!!
 publishedDate: 2022-07-13T16:02:46.329Z
 description: НДИТ Бишээ Эрдэнэсүх МУ-ын Ерөнхийлөгч У. Хүрэлсүхийн зохион байгуулсан хүлээн авалтын талаар нийтлэл бичив.
 featured: true
-img: ../../static/images/bishee.png
+img: ../../static/images/bishee.jpeg
 imgAlt: Зураг
 tags:
   - Улс төр
