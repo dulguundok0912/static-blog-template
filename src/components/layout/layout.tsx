@@ -9,17 +9,17 @@ import icon from "../../../static/logo.png";
 const logo = <img className="w-auto h-15" src={icon} alt="Workflow" />;
 const menuItems: MenuItem[] = [
   {
-    label: "Home",
+    label: "Эхлэл",
     href: "/",
   },
   {
-    label: "Contact",
+    label: "Бидэнтэй Холбогдох",
     href: "/contact",
   },
 ];
 
 const footer = {
-  copyrightOwner: "GEEK SG",
+  copyrightOwner: "МАНАН",
   linkedin: "https://www.linkedin.com/in/raymondyeh/",
   github: "https://github.com/yehjxraymond",
   instagram: "https://www.instagram.com/geek.sg/",
