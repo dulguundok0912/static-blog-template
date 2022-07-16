@@ -3,7 +3,7 @@ template: blog-post
 title: Артист 168, Pangass нар "Play time"-ын үеэр ХАР ТАМХИ ХЭРЭГЛЭЖЭЭ
 publishedDate: 2022-07-16T12:00:28.345Z
 description: "PLAYTIME 2022" энэ үеэр Цагдаагийн ерөнхий газрын Хар тамхитай тэмцэх газрын алба хаагчид шалгалтын ажиллагаа явуулжээ.
-featured: true
+featured: false
 img: ../../static/images/168.jpeg
 imgAlt: Артист 168
 tags:
